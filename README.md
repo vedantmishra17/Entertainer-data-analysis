@@ -6,6 +6,7 @@ My name is vedant mishra, Data Analyst intern at iNeuron.ai. My project is about
 Given dataset:https://drive.google.com/drive/folders/1sJm4vy-qfuk3CFgE_zMMPGVYFmoIg35n
 
 I have combined them and make one seperate file with some additional information to make analysis and dashboards.
+Dashboard link:-https://shorturl.at/prP45
 
 Tools used: MS Excel, Power BI
 
