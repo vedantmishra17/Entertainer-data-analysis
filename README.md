@@ -30,4 +30,5 @@ Required Documents are uploaded i.e. HLD, LLD, Wireframe, Architecture and Detai
 
 video link:
 
-LinkedIn Post: 
+LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7062694771638624256/
+
