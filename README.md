@@ -31,7 +31,8 @@ Welcome to the Entertainer Data Analysis project! In this internship project, I 
 
 ## Visualization Preview:
 
-[Include a screenshot or GIF showcasing a preview of the Power BI report.]
+![image](https://github.com/vedantmishra17/Entertainer-data-analysis/assets/105164363/1c6fb298-1e67-4703-aaee-704d65f9e34a)
+
 
 ## Credits:
 
