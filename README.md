@@ -20,19 +20,13 @@ Welcome to the Entertainer Data Analysis project! In this internship project, I 
 
 ## How to Explore:
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/entertainer-data-analysis.git
-   cd entertainer-data-analysis
-   ```
-
-2. **View Power BI Report:**
+1. **View Power BI Report:**
    - Open the Power BI file (`Entertainer_Analysis_Report.pbix`) to explore the visualizations and insights.
 
-3. **Excel Cleaning Process:**
+2. **Excel Cleaning Process:**
    - Refer to the documentation or Excel files in the repository to understand the data cleaning and enhancement process.
 
-4. **Contribute:**
+3. **Contribute:**
    - Contributions are welcome! If you have suggestions, enhancements, or find issues, feel free to contribute by creating a pull request or opening an issue.
 
 ## Visualization Preview:
@@ -41,16 +35,11 @@ Welcome to the Entertainer Data Analysis project! In this internship project, I 
 
 ## Credits:
 
-- This project was created by [Your Name].
-- Original Dataset Source: [Mention the source of the initial dataset, if applicable.]
-- External Data Source: [Specify the source of the external data.]
+- This project was created by [Vedant Mishra].
+- Original Dataset Source:https://drive.google.com/drive/folders/1sJm4vy-qfuk3CFgE_zMMPGVYFmoIg35n
 
-## License:
-
-This Entertainer Data Analysis project is licensed under the [License Name]. See the [LICENSE](LICENSE) file for details.
 
 Dive into the world of entertainment insights and discover the stars that shine the brightest! 🌟📊
-
 
 LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7062694771638624256/
 
